@@ -5,8 +5,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=husamahmud&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=husamahmud&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=K-a-r-e-e-m&locale=en&mode=day&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K-a-r-e-e-m&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,9 +14,5 @@
 
 
 <br>
-<br>
 
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=husamahmud.husamahmud&"  />
-</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=k-a-r-e-e-m&label=Profile%20views&color=0e75b6&style=flat" alt="k-a-r-e-e-m" /> </p>
