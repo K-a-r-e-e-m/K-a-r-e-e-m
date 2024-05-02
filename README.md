@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kareem</h1>
-<h3 align="center">Student at Faculty of Engineering computer and control SCU, I am interested in Cybersecurity</h3>
+<h3 align="center">Student at Faculty of Engineering SCU, I am interested in Cybersecurity</h3>
 
 
 <br clear="both">
