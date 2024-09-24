@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=K-a-r-e-e-m&locale=en&mode=day&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=K-a-r-e-e-m&locale=en&mode=week&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K-a-r-e-e-m&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
@@ -14,12 +14,23 @@
 <div align="left" style="display: flex; gap: .5rem">
 
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg" height="40" alt="cs logo"  />
+
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DotNet.svg" height="40" alt="dotnet logo"  />
+
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VisualStudio-Dark.svg" height="40" alt="vs logo"  />
+
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" height="40" alt="vscode logo"  />
+
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" height="40" alt="python logo"  />
+  
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" height="40" alt="flask logo"  />
 
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" height="40" alt="nodejs logo"  />
-
-
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" height="40" alt="postman logo"  />
+  
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" height="40" alt="mysql logo"  />
 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" height="40" alt="linux logo"  />
@@ -32,6 +43,10 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="postman" width="40" height="40"/>
 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" alt="Nginx" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" height="40" alt="matlab logo"  />
+
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" height="40" alt="bootstrap logo"  />
 
 
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
