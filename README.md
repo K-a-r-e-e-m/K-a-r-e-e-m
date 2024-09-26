@@ -8,13 +8,13 @@
     src="https://streak-stats.demolab.com?user=K-a-r-e-e-m&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5" 
     height="150" 
     alt="Streak graph" 
-    style="background-color: transparent; border: 5px solid #4682b1; border-radius: 50px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" 
+    style="border: 5px solid #4682b1; border-radius: 50px;"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=K-a-r-e-e-m&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" 
     height="150" 
     alt="Languages graph" 
-    style="background-color: transparent; border: 5px solid #4682b4; border-radius: 50px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" 
+    style="border: 5px solid #4682b4; border-radius: 50px;"
   />
 </div>
 
