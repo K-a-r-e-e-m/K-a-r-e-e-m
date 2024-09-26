@@ -5,13 +5,13 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img 
-    src="https://streak-stats.demolab.com?user=K-a-r-e-e-m&locale=en&mode=weekly&theme=whatsapp-dark2&border_radius=40" 
-    height="150" 
+    src="https://streak-stats.demolab.com?user=K-a-r-e-e-m&locale=en&mode=weekly&theme=whatsapp-dark2&border_radius=40&hide_border=true" 
+    height="170" 
     alt="Streak graph" 
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=K-a-r-e-e-m&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&border_radius=30" 
-    height="150" 
+    height="170" 
     alt="Languages graph" 
   />
 </div>
