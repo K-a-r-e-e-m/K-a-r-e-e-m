@@ -3,19 +3,20 @@
 
 <br>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; justify-content: center; gap: 80px;">
   <img 
-    src="https://streak-stats.demolab.com?user=K-a-r-e-e-m&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=50" 
+    src="https://streak-stats.demolab.com?user=K-a-r-e-e-m&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=50" 
     height="150" 
     alt="Streak graph" 
+    style="border: 5px solid #4682b4; border-radius: 50px;"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=K-a-r-e-e-m&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&border_radius=40" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=K-a-r-e-e-m&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&border_radius=50" 
     height="150" 
     alt="Languages graph" 
+    style="border: 5px solid #4682b4; border-radius: 50px;"
   />
 </div>
-
 
 <h3 align="center">Languages and Tools:</h3>
 
