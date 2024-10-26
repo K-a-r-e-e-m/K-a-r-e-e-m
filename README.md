@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kareem</h1>
-<h3 align="center">Student at Faculty of Engineering SCU | Interested in Fullstack Development and Cybersecurity</h3>
+<h3 align="center">Student at Faculty of Engineering SCU | Interested in Web Development and Cybersecurity</h3>
 
 <br>
 
